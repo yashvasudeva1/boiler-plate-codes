@@ -1,0 +1,7 @@
+streamlit
+pandas
+ydata-profiling
+streamlit-pandas-profiling
+openpyxl
+matplotlib
+seaborn
